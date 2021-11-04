@@ -1,4 +1,5 @@
 import { CharCard } from "../CharCard";
+import "./style.css";
 
 export const Characters = ({ characterList }) => {
   return (
